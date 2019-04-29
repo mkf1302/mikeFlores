@@ -40,11 +40,11 @@
   -webkit-box-sizing: border-box;
   box-sizing: border-box; }
 
-  image {
+  /* image {
     width: 1px;
     height: 200px;
     object-fit: cover;
-  }
+  } */
 
 html {
   font-family: sans-serif;
